@@ -4,11 +4,11 @@ import rigoImageUrl from "../../img/rigo-baby.jpg";
 import "../../styles/home.css";
 
 export const Home = () => {
-	const { store, actions } = useContext(Context);
+	const { store, actions } = useContext(Context);git remote add origin https://github.com/OWNER/REPOSITORY.git
 
 	return (
 		<div className="text-center mt-5">
-			<h1>Hello Rigo!!</h1>
+			<h1>Hallo</h1>
 			<p>
 				<img src={rigoImageUrl} />
 			</p>
