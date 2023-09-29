@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+//comentario de prueba
 export const Navbar = () => {
 	return (
 		<nav className="navbar navbar-light ">
